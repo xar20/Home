@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SeleniumTestSuite">
+    <test name="SimpleTest">
+        <classes>
+            <class name="SimpleTest"/>
+        </classes>
+    </test>
+<!--    <test name="Login">-->
+<!--        <classes>-->
+<!--            <class name="tests.Login"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="Overview">-->
+<!--        <classes>-->
+<!--            <class name="tests.Overview"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="Transfer">
+        <classes>
+            <class name="tests.Transfer"/>
+        </classes>
+    </test>-->
+</suite>
